@@ -38,7 +38,7 @@ The app extracts the most relevant sentences from the input text using the LexRa
 
 ▶️ Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/text-summarization-tool.git
+git clone https://github.com/Madhuri-0607/text-summarization-tool.git
 cd text-summarization-tool
 2. Install dependencies
 Make sure you have Python 3.7+ installed.
