@@ -15,7 +15,13 @@ A Python-based Text Summarization Tool that uses Natural Language Processing (NL
 🎯 Easy to run locally
 
 📷 Screenshot
-(Insert a screenshot of your app here)
+![Image](https://github.com/user-attachments/assets/e9661c25-fc35-476a-b05d-377783e9b1a0)
+
+
+![Image](https://github.com/user-attachments/assets/6402ba4f-5f89-4880-b2ed-6f9b9a8cb90d)
+
+
+![Image](https://github.com/user-attachments/assets/be1d3ae0-6c86-4986-b853-c2dc0b3a527b)
 
 🛠️ Tech Stack
 Python
