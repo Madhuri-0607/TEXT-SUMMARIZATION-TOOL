@@ -32,13 +32,6 @@ NLTK – Natural language processing
 
 Sumy – Extractive summarization
 
-📂 Project Structure
-
-text-summarization-tool/
-│
-├── app.py               # Main Streamlit app
-├── requirements.txt     # Dependencies
-└── README.md            # Project documentation
 🧪 How It Works
 The app extracts the most relevant sentences from the input text using the LexRank algorithm (via sumy) to create a meaningful summary while preserving the original context.
 
