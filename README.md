@@ -62,4 +62,4 @@ pip install streamlit sumy nltk
 This project is licensed under the MIT License.
 
 🙋‍♀️ Author
-Madhuri – GitHub Profile
+Madhuri – [GitHub Profile](https://github.com/Madhuri-0607)
