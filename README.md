@@ -1,3 +1,14 @@
+# Internship Details:
+
+***COMPANY:*** CODTECH IT SOLUTIONS  
+***NAME:*** MOTHUKURI MADHURI  
+***INTERN ID:*** C0DF104  
+***DOMAIN:*** Artificial Intelligence Markup Language (AIML Internship)  
+***DURATION:*** 4 WEEKS
+***MENTOR:*** NEELA SANTHOSH
+
+
+
 # TEXT-SUMMARIZATION-TOOL
 
 📝 Text Summarization Tool
@@ -31,6 +42,15 @@ Streamlit – Web interface
 NLTK – Natural language processing
 
 Sumy – Extractive summarization
+
+## 📂 Project Structure
+
+protext-ai-summarizer/
+│
+├── app.py # Main application file
+├── requirements.txt # Python dependencies
+├── README.md # Documentation
+└── LICENSE # MIT License
 
 🧪 How It Works
 The app extracts the most relevant sentences from the input text using the LexRank algorithm (via sumy) to create a meaningful summary while preserving the original context.
