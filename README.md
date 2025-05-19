@@ -4,8 +4,7 @@
 ***NAME:*** MOTHUKURI MADHURI  
 ***INTERN ID:*** C0DF104  
 ***DOMAIN:*** Artificial Intelligence Markup Language (AIML Internship)  
-***DURATION:*** 4 WEEKS
-
+***DURATION:*** 4 WEEKS  
 ***MENTOR:*** NEELA SANTHOSH
 
 
@@ -46,12 +45,12 @@ Sumy – Extractive summarization
 
 ## 📂 Project Structure
 
-protext-ai-summarizer/
-│
-├── app.py # Main application file
-├── requirements.txt # Python dependencies
-├── README.md # Documentation
-└── LICENSE # MIT License
+protext-ai-summarizer/  
+│   
+├── app.py # Main application file   
+├── requirements.txt # Python dependencies  
+├── README.md # Documentation   
+└── LICENSE # MIT License   
 
 🧪 How It Works
 The app extracts the most relevant sentences from the input text using the LexRank algorithm (via sumy) to create a meaningful summary while preserving the original context.
@@ -77,8 +76,8 @@ sumy
 nltk
 Install using:
 
-pip install streamlit sumy nltk
-📄 License
+pip install streamlit sumy nltk  
+📄 License  
 This project is licensed under the MIT License.
 
 🙋‍♀️ Author
