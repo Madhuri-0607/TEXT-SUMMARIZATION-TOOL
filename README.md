@@ -1,11 +1,4 @@
-# Internship Details:
 
-***COMPANY:*** CODTECH IT SOLUTIONS  
-***NAME:*** MOTHUKURI MADHURI  
-***INTERN ID:*** C0DF104  
-***DOMAIN:*** Artificial Intelligence Markup Language (AIML Internship)  
-***DURATION:*** 4 WEEKS  
-***MENTOR:*** NEELA SANTHOSH
 
 
 
